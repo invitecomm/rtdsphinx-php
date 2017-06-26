@@ -1,4 +1,10 @@
- <?php
+<?php
+/**
+  * @author My Name
+  * @author My Name <my.name@example.com>
+  */
+class somethingNew {
+  
  /**
   * A summary informing the user what the associated element does.
   *
@@ -33,3 +39,5 @@
  	$foo = 22;
  
  }
+ 
+}
