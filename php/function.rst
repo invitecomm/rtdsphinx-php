@@ -6,7 +6,7 @@ phpDoc
 ======
 
 .. phpautomodule::
-   :filename: sample/phpdoc.php
+   :filename: sample/function.php
    :members:
    :undoc-members:
    
@@ -14,7 +14,7 @@ phpautoclass
 ============
 
 .. phpautoclass::
-   :filename: path/to/source_code.php
+   :filename: sample/function.php
    :members:
    :undoc-members:   
    
