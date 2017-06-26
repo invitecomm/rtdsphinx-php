@@ -26,6 +26,10 @@
 	color: #006666;
 }
 
+a {
+	color: #009999;
+}
+
 .rst-content .hidden {
     display: none !important;
 }
