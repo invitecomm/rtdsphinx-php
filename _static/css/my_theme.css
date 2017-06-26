@@ -25,6 +25,9 @@ div.section#maintoc h2 {
     display: none !important;
 }
 
+.wy-side-nav-search {
+	background-color: #123456;
+
 .wy-table-bordered-all, .rst-content table.docutils {
     border: 1px solid #e1e4e5;
 }
