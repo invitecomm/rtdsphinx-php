@@ -2,11 +2,11 @@
 Function
 ########
 
-Auto1
-=====
+phpDoc
+======
 
 .. phpautomodule::
-   :filename: sample/function.php
+   :filename: sample/phpdoc.php
    :members:
    :undoc-members:
    
