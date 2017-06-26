@@ -5,8 +5,10 @@ Function
 Auto1
 =====
 
-.. phpautofunction::
+.. phpautomodule::
    :filename: sample/function.php
+   :members:
+   :undoc-members:
    
    
 Auto2
