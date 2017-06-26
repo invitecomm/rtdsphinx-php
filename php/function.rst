@@ -10,9 +10,16 @@ phpDoc
    :members:
    :undoc-members:
    
+phpautoclass
+============
+
+.. phpautoclass::
+   :filename: path/to/source_code.php
+   :members:
+   :undoc-members:   
    
 Auto2
 =====
 
-.. phpautofunction:: myFunction
+.. phpautofunction::
    :filename: sample/function.php
