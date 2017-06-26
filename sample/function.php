@@ -28,7 +28,9 @@ class somethingNew {
  * information or textual references.
  *
  * @author My Name
+ *
  * @author My Name <my.name@example.com>
+ *
  * @param string $myArgument With a *description* of this argument, 
  *
  * @return void
