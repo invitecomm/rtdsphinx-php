@@ -2,8 +2,6 @@
 The MIT License (MIT)
 =====================
 
-* Copyright (c) 2014 - 2017, British Columbia Institute of Technology
-* Copyright (c) 2015 Wiredesignz
 * Copyright (c) 2017 INVITE Communications Co., Ltd.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
