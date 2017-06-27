@@ -48,18 +48,15 @@ master_doc = 'index'
 
 # General information about the project.
 project = u':project_name'
-author_name = u'INVITE Communication Co., Ltd.'
+author_name = u'INVITE Communication Co., Ltd'
 author = u'Brian LaVallee'
 inception = '2017' # Creation Year
 
 # Automatically Adjust Copyright from Inception Date
-this_year = date.today().year
-if date.today().year < inception:
-    copyright = '{0}, {1}'.format(inception, author_name)
-else:
+if date.today().year > int(inception):
     copyright = '{0}~{1}, {2}'.format(inception, date.today().year, author_name)
-
-    
+else:
+    copyright = '{0}, {1}'.format(inception, author_name)  
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
